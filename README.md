@@ -22,7 +22,7 @@
 
 ## Demonstração
 
-Link pro app: https://lista-de-tarefas-pi-seven.vercel.app/
+- [Link do projeto](https://lista-de-tarefas-pi-seven.vercel.app/)
 
 ## Como rodar o projeto:
 
