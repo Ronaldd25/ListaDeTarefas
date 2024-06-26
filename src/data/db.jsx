@@ -11,7 +11,7 @@ export const list = [
   },
   {
     id: 3,
-    title: "Estudar React",
+    title: "Estudar Typescript",
     done: false,
   },
 ];
